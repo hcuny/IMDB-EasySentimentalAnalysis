@@ -1,5 +1,7 @@
 Large Movie Review Dataset v1.0
 
+Note: The whole dataset is too large to upload, thus I chose 2 txt files (one positive and one negative) as an example. 
+
 Overview
 
 This dataset contains movie reviews along with their associated binary
